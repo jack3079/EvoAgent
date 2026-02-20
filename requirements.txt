@@ -1,0 +1,8 @@
+anthropic>=0.34.0
+pyyaml>=6.0
+pytest>=7.0
+# Optional backends
+openai>=1.0.0          # if you want OpenAI models
+# Optional memory upgrades
+# numpy>=1.24           # for vector similarity recall
+# sentence-transformers # for semantic search
